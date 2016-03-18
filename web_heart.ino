@@ -28,10 +28,7 @@ void loop() {
   //  mudar o analógico fora valor: 
   analogWrite(analogOutPin, outputValue);           
 
-int nADCInput;
-
- 
-    Serial.println(analogRead(nADCInput));
+    Serial.println(outputValue);
     
     delay(300);
 
