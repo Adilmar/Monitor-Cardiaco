@@ -1,4 +1,4 @@
- const int analogInPin = A0;  //  pino de entrada analógica que o LDR  é ligado
+const int analogInPin = A0;  //  pino de entrada analógica que o LDR  é ligado
 const int analogOutPin = 11; //  pino de saída analógica que o LED está ligado 
 const int infra = 12; //  pino de saída analógica que o LED está ligado 
 
